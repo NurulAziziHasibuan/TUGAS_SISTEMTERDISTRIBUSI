@@ -2,7 +2,7 @@
 
 1. install wsl 
     
-    ![Untitled](SISTEM%20TERDISTRIBUSI%201c985660ef00481992c483dcae887075/Untitled.png)
+    ![alt text](https://github.com/NurulAziziHasibuan/TUGAS_SISTEMTERDISTRIBUSI/blob/main/TUGAS%201_SISTEM%20TERDISTRIBUSI/Untitled.png?raw=true)
     
 2. install server host
     
